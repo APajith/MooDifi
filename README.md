@@ -22,7 +22,7 @@ Welcome to the AI Music Player repository! This is a full-stack progressive web 
 
 ![image](https://github.com/user-attachments/assets/9af1499b-1085-41ba-a2ea-c358a0c0f4e9)
 
-![image](https://github.com/user-attachments/assets/7a328d05-b31f-4fd1-999a-1fdf182c7e97)
+![image]()
 
 ![image](https://github.com/user-attachments/assets/1392afa9-d690-4c37-9011-211cbf4eaac1)
 
