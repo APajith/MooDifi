@@ -1,7 +1,4 @@
-Sema da Aji!🔥 Appa unga **Moodifi** app-ku feature ideas catchy-a irukanum-na, unga demo ku super-a thiranthirum pola. Ithu real-time-a “AI + Emotion + Music” nu irukura app-nu solli highlight panna vendiyathu dhaan. Ipdi solla features panlam 👇:
-
----
-
+FEATURES
 ## 🎯 **🔥 Moodifi – Standout Features for Demo**
 
 ### 🧠 1. **Real-Time Emotion Detection (Face + Voice)**
@@ -63,19 +60,6 @@ Sema da Aji!🔥 Appa unga **Moodifi** app-ku feature ideas catchy-a irukanum-na
 - Connect with smartwatch/heart sensor to enhance emotion detection
 - Used for mental health or fitness mood music
 
-👉 **Pitch Tip:** Use this in *Future Scope* slide of demo.
-
----
-
-## 🧑‍💻 Summary for Pitch:
-
-```
-Moodifi is an AI-powered emotion detection app that personalizes your music experience based on how you feel – through your facial expressions and voice tone. With smart learning, mood-based playlists, and a minimal design, it’s your perfect musical companion for every moment.
-```
-
----
-
-Aji, want me to now customize the **README.md** and UI to reflect these features neatly? I'll also package the code if needed. Just say the word bro 😎💻💯
 ## Screenshots 📸
 
 ![image](https://github.com/user-attachments/assets/9af1499b-1085-41ba-a2ea-c358a0c0f4e9)
